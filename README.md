@@ -1,2 +1,2 @@
 # analys_penjualan_handphone
-analys_penjualan_hanphone
+menganalisa totap revenue, cost, serta profit setiap handphone berdasarkan kotanya
